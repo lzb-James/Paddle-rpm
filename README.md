@@ -28,4 +28,5 @@ RPM是一种软件包的格式，在我国的国产操作系统OpenEuler社区�
 - [PaddlePaddle](https://www.paddlepaddle.org.cn/)
 
 ## 邮箱
-lzb15204493l06lzb@163.com
+Maintainer:James-Li
+<lzb15204493l06lzb@163.com>
