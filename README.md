@@ -23,7 +23,7 @@ RPM是一种软件包的格式，在我国的国产操作系统OpenEuler社区�
 - AI Framework
 
 ## Link
-![openEuler](https://gitee.com/openeuler)
-![paddlepaddle]()
+
+
 ## 邮箱
 lzb15204493l06lzb@163.com
