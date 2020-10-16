@@ -5,7 +5,6 @@ Committed to making paddlepaddle rpm package
 
 With the development of AI and big data, our country has already developed its own artificial intelligence framework  named PaddlePaddle, which is very mature in performance, comparable to mainstream frameworks such as Tensorflow, Pytorch, Caffe, and Keras. And has surpassed these mainstream frameworks in some features
 
-AIとビッグデータの開発に伴い、中国はすでに独自の人工知能フレームワークPaddlePaddleを開発しました。これは、Tensorflow、Pytorch、Caffe、Kerasなどの主流のフレームワークに匹敵するパフォーマンスが非常に成熟しています。 そして、いくつかの機能でこれらの主流のフレームワークを超えています
 
 ![image](https://github.com/lzb-James/Paddle-rpm/blob/main/23534030.jpg)
 
@@ -13,5 +12,18 @@ AIとビッグデータの開発に伴い、中国はすでに独自の人工知
 ```
 RPM是一种软件包的格式，在我国的国产操作系统OpenEuler社区，OpenSUSE,Magic等社区的软件包是以RPM包格式来进行构建软件生态系统
 ```
+# 将AI与操作系统集合在一起的原因
+```
+一个完美的AI框架务必与国产的操作系统结合,两者相互促进，互相发展，操作系统带动AI的框架主流，AI决定操作系统的生态，rpm格式的软件包有助于进一步扩大飞桨的影响力
+```
+# Key
+- rpm/dnf
+- yum
+- openEuler
+- AI Framework
 
-一个完美的AI框架务必与国产的操作系统结合才会体现出中国的实力
+## Link
+![openEuler](https://gitee.com/openeuler)
+![paddlepaddle]()
+## 邮箱
+lzb15204493l06lzb@163.com
