@@ -5,3 +5,5 @@ Committed to making paddlepaddle rpm package
 
 With the development of AI and big data, our country has already developed its own artificial intelligence framework  named PaddlePaddle, which is very mature in performance, comparable to mainstream frameworks such as Tensorflow, Pytorch, Caffe, and Keras. And has surpassed these mainstream frameworks in some features
 
+AIとビッグデータの開発に伴い、中国はすでに独自の人工知能フレームワークPaddlePaddleを開発しました。これは、Tensorflow、Pytorch、Caffe、Kerasなどの主流のフレームワークに匹敵するパフォーマンスが非常に成熟しています。 そして、いくつかの機能でこれらの主流のフレームワークを超えています
+
