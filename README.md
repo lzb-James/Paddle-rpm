@@ -7,3 +7,4 @@ With the development of AI and big data, our country has already developed its o
 
 AIとビッグデータの開発に伴い、中国はすでに独自の人工知能フレームワークPaddlePaddleを開発しました。これは、Tensorflow、Pytorch、Caffe、Kerasなどの主流のフレームワークに匹敵するパフォーマンスが非常に成熟しています。 そして、いくつかの機能でこれらの主流のフレームワークを超えています
 
+![image](https://github.com/lzb-James/Paddle-rpm/blob/main/23534030.jpg)
