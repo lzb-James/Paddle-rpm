@@ -7,7 +7,7 @@ With the development of AI and big data, our country has already developed its o
 
 
 ![image](https://github.com/lzb-James/Paddle-rpm/blob/main/23534030.jpg)
-
+![image]()
 # RPM
 ```
 RPM是一种软件包的格式，在我国的国产操作系统OpenEuler社区，OpenSUSE,Magic等社区的软件包是以RPM包格式来进行构建软件生态系统
